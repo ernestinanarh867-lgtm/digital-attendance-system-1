@@ -84,7 +84,7 @@ int main() {
 
     cout << "============================================" << endl;
     cout << "   DIGITAL ATTENDANCE SYSTEM" << endl;
-    cout << "   HND Electrical Engineering - Level 200" << endl;
+    cout << "   HND Electrical/Electronics Engineering - Level 200" << endl;
     cout << "============================================" << endl;
 
     do {
